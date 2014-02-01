@@ -1,0 +1,21 @@
+{
+    "name": "revati/laravel-soft-delete",
+    "description": "Extend laravel core support for soft delete",
+    "keywords": ["soft delete", "routes", "laravel"],
+    "authors": [
+        {
+            "name": "revati",
+            "email": "rgulans@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Revati\\SoftDelete\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
