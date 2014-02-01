@@ -6,11 +6,11 @@ This Laravel 4 package provides a additional routes for soft deletable resources
 
 ## Installation
 
-Begin by installing this package through Composer. Edit your project's `composer.json` file to require `revati/routing`.
+Begin by installing this package through Composer. Edit your project's `composer.json` file to require `revati/laravel-soft-delete`.
 
     "require": {
         "laravel/framework": "4.1.*",
-        "revati/routing": "dev-master"
+        "revati/laravel-soft-delete": "dev-master"
     }
 
 Next, update Composer from the Terminal:
